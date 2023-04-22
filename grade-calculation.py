@@ -8,3 +8,5 @@ if int(score) >= 0.6*int(maxScore):
   print(name + ", you passed the test!")
 else:
   print(name + ", you failed the test!")
+
+  
